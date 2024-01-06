@@ -1,11 +1,11 @@
 "use strict";
 function calculateTotal() {
   // Get input values
-  var hours = parseFloat(document.getElementById("hours").value) || 0;
-  var hourlyRate = 16; // Fixed hourly rate
+  let hours = parseFloat(document.getElementById("hours").value) || 0;
+  let hourlyRate = 16; // Fixed hourly rate
 
   // Call the calculateProjectRate function
-  var total = calculateProjectRate(hours, hourlyRate);
+  let total = calculateProjectRate(hours, hourlyRate);
 
   // Display total
   document.getElementById("total").value = total.toFixed(2);
