@@ -1,3 +1,7 @@
+# GitHub Organizations
+Added repo to my own personal organization. The transfer was actually pretty simple as it was mostly a matter of copying links over. I did have a misstep when I did the inital transfer when I didn't make the owner the orginization, and left under on my own personal name
+
+
 # Capstone Project - Ace's Portfolio
 
 ## Project Description
